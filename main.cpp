@@ -1,6 +1,9 @@
 /******************************************************************************
  * Fizzbuzz with range-v3
  *
+ * Author: Alexander Reustle
+ * Date: 2020-12-14
+ *
  * This is my crack at a flexible fizzbuzz like application with range-v3.
  *
  * My fizzbuzz extends other range-based fizzbuzz implimentations while adding
